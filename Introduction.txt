@@ -1,0 +1,1 @@
+Welcome to the Cognitive Music Analysis Hub on Github, a collaborative space at the intersection of music, cognition, and technology. This repository serves as a focal point for project in music cognition, audio perception studies, and cognitive music analysis.
